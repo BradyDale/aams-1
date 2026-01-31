@@ -15,6 +15,10 @@ For practical examples of outfits, garments, and silhouettes, see:
 
 The visual guide is illustrative, not prescriptive, and exists to clarify the intent of the protocol.
 
+### Lineage
+
+This protocol emerges from earlier cultural and community attempts to articulate a baseline system for male dress. It formalizes and extends those efforts into a stable, context-driven standard rather than a trend or aesthetic movement.
+
 ------
 
 ## **2. Operational Contexts**

@@ -39,6 +39,27 @@ These examples illustrate how the protocol looks in practice across different **
 
 Read the protocol. Adopt what’s useful. Submit pull requests for improvements, regional variations, or clarifications.
 
+## Background and Prior Work
+
+This standard builds on and extends several earlier conversations about male dress, social signaling, and the loss of shared clothing norms.
+
+Notable prior influences include:
+
+- Paul Skallas, *“[Why Do We Dress So Badly?](https://lindynewsletter.beehiiv.com/p/why-do-we-dress-so-badly)”* (The Lindy Newsletter)  
+  A cultural analysis arguing that the collapse of the male uniform left most men without a stable dressing system.
+
+- r/malefashionadvice, *“[The Basic Bastard” Wardrobe Guide](https://www.reddit.com/r/malefashionadvice/comments/5da1dc/the_basic_bastard_basic_wardrobe_and_inspiration/)*  
+  A widely shared attempt to provide a simplified starter wardrobe for men new to dressing intentionally.
+
+AAMS-1 differs in that it:
+
+- Treats clothing as a **social signaling protocol**, not a shopping list  
+- Defines **operational contexts** as the decision framework  
+- Centers jackets and shoes as the primary structural elements  
+- Aims for **interoperability and stability** rather than trend fluency
+
+This project should be understood as a continuation and formalization of those earlier efforts, not a rejection of them.
+
 ## Version
 
 Current version: **AMS-1 Draft**
