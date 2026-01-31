@@ -1,4 +1,4 @@
-# AMS-1: Adult Male Standard
+# AMS-1: American Adult Male Standard
 
 **Status:** Draft  
 An open standard for low-friction, socially coherent adult male dress.

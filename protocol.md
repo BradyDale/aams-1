@@ -1,4 +1,4 @@
-# **AMS-1: Adult Male Standard — Clothing Protocol**
+# **AAMS-1: American Adult Male Standard — Clothing Protocol**
 
 **Status:** Draft
  **Scope:** Everyday dress for adult men in public life
