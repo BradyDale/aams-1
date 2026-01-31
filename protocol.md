@@ -125,7 +125,13 @@ Men should own a rotation of:
 - Long-sleeve button-up shirts, single color with no chest pockets
 
 **Colors:** white, off-white, light blue, muted tones
- Graphics should be minimal and reserved for **Chill** settings.
+Graphics should be minimal and reserved for **Chill** settings.
+
+**Undershirts**
+
+When wearing a button-up shirt, an undershirt should be worn.
+
+The goal is moisture control and fabric longevity, not visibility. A deep V-neck undershirt is preferred so it remains unseen when the top buttons are open, but any plain undershirt is acceptable.
 
 ### **4.3 Trousers**
 
