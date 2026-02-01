@@ -28,17 +28,19 @@ All clothing decisions are determined by context level.
 ### **2.1 Athletic**
 
 Gym sessions, sports, physical training.
- Performance and function override presentation.
+Performance and function override presentation.
+
+As in **Labor**, men are expected to change when they finish.
 
 ### **2.2 Chill**
 
 Private homes, backyard gatherings, lounging, and environments with high social familiarity.
- Comfort is prioritized. Public signaling is not required.
+Comfort is prioritized. Public signaling is unnecessary.
 
 ### **2.3 Casual**
 
 The baseline for adult public life.
- Errands, everyday social life, personal activities, most parties, traveling, and general public presence.
+Errands, everyday social life, personal activities, most parties, traveling, and general public presence.
 
 This is the standard operating level for an adult man outside specialized contexts.
 
@@ -63,7 +65,7 @@ Signal: Responsibility, decision-making, and reliability.
 ### **2.7 Formal**
 
 Ceremonial and traditional formalwear contexts.
- Black tie, white tie, and established formal dress codes apply.
+Black tie, white tie, and established formal dress codes apply.
 
 ------
 
@@ -93,7 +95,7 @@ Men should maintain:
 - A casual leather shoe or boot
 - Athletic footwear for **Athletic** contexts only
 
-Cleaner shoes read as more formal. Leather tones should be coordinated with belts and watch straps when practical.
+Cleaner shoes read as more formal. Leather tone and patina should be coordinated with belts and watch straps when practical.
 
 ------
 
@@ -102,6 +104,8 @@ Cleaner shoes read as more formal. Leather tones should be coordinated with belt
 These are the baseline garments that support the jacket-and-shoe system.
 
 Garments in the baseline wardrobe should be interoperable. Most tops should work with most trousers without additional coordination decisions. This is why the system relies on restrained, neutral colors.
+
+Leather in the following always includes faux-leather.
 
 ### **4.1 Sweaters and sweatshirts**
 
@@ -112,7 +116,7 @@ Men should own:
 - A sweater vest (optional but encouraged)
 
 **Colors:** navy, gray, charcoal, muted blues
- **Patterns:** solid preferred, minimal patterns acceptable
+**Patterns:** solid preferred, minimal patterns acceptable
 
 Hoodies and sweatshirts are limited to **Chill** contexts and should not be worn with leather shoes.
 
@@ -281,12 +285,12 @@ Jacket.
 ### **5.6 Authority**
 
 Structured jacket.
- Leather shoes.
- Button-up shirt.
- Slacks or wool trousers.
- Tie or bow-tie. Simple designs always. Reps. Dots. Checks. Paisleys. No more than three colors.
- Or wear a suit.
- Sweater vests or dress vests as needed.
+Leather shoes.
+Button-up shirt.
+Slacks or wool trousers.
+Tie or bow-tie. Simple designs always. Reps. Dots. Checks. Paisleys. No more than three colors.
+Or wear a suit.
+Sweater vests or dress vests as needed.
 
 ### **5.7 Formal**
 
@@ -349,4 +353,8 @@ When uncertain:
 - Keep colors simple
 - Low logo levels, low design levels
 
-Men who want to dress for personal expression are encouraged to do so. The protocol is not about conformity, it's about elevating men in order to clearly and succinctly signal which men are bought into sharing and building their society and bought into all the responsbilities that entails.
+**Crucially, repeating the same outfit from day-to-day is to be expected.** Men can very much adopt a life uniform. It's fine. Note that jackets and denim rarely need to be laundered. Shirts worn with an undershirt can generally be worn several times. 
+
+-  Americans tend to do more laundry than they need to. 
+
+Men who want to dress for personal expression are encouraged to do so. The protocol is not about conformity, it's about elevating men in order to clearly and succinctly signal which men buy into sharing and building their society and into all the responsbilities that entails.
