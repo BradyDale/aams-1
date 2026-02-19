@@ -326,7 +326,7 @@ Cologne should be minimal. Two sprays maximum. Apply to skin, not clothing. Cons
 
 ## **7. Shopping**
 
-The expense or brand signaling of clothing is to be discouraged. It is not important if a man's jacket comes from Saks 5th Avenue or J.C. Penney's in this protocol. What matters is that a man is that he is choosing to signal responsibility and buy-in to expectations of sharing a part of the commonweal.
+The expense or brand signaling of clothing is to be discouraged. It is not important if a man's jacket comes from Saks 5th Avenue or J.C. Penney's in this protocol. What matters is that a man is that he is choosing to signal responsibility and buy-in to expectations of sharing a part of the commonwealth.
 
 That said, brands that emphasize shopping for staples, low turnover in closets should be encouraged. Spending slightly more because something is built to last (not because it signals affluence) should be encouraged.
 
